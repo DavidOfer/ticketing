@@ -1,2 +1,2 @@
 # Ticketing
-A microservices based application for selling and buying tickets guided by a udemy course
+An E-commerce tickets app based on microservices architecture. guided by a udemy course.
